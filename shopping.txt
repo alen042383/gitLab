@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  # Shpping List
  
  - milk
@@ -11,3 +12,9 @@
 =======
 - corn
 >>>>>>> bbq
+=======
+# Shpping List
+
+- milk
+- eggs
+>>>>>>> parent of 95fcc5b... add bbq items

@@ -6,4 +6,8 @@
 -- barbecue grill
 -- wood coal
 +- eggs
+<<<<<<< HEAD
 - mushroom
+=======
+- corn
+>>>>>>> bbq
